@@ -1,6 +1,6 @@
 {
   "polkadot-statemint": {
-    "title": "Polkadot Asset Hub",
+    "name": "AssetHub",
     "unit": "DOT",
     "base58prefix": 0,
     "decimals": 10,
@@ -8,7 +8,7 @@
     "parachainId": 1000
   },
   "polkadot-collectives": {
-    "title": "Polkadot Collectives",
+    "name": "Collectives",
     "unit": "DOT",
     "base58prefix": 0,
     "decimals": 10,
@@ -16,7 +16,7 @@
     "parachainId": 1001
   },
   "polkadot-bridge-hub-polkadot": {
-    "title": "Polkadot Bridge Hub",
+    "name": "BridgeHub",
     "unit": "DOT",
     "base58prefix": 0,
     "decimals": 10,
@@ -24,7 +24,7 @@
     "parachainId": 1002
   },
   "polkadot-acala": {
-    "title": "Acala",
+    "name": "Acala",
     "unit": "UNIT",
     "base58prefix": 10,
     "decimals": 12,
@@ -32,7 +32,7 @@
     "parachainId": 2000
   },
   "polkadot-moonbeam": {
-    "title": "Moonbeam",
+    "name": "Moonbeam",
     "unit": "GLMR",
     "base58prefix": 1284,
     "decimals": 18,
@@ -40,7 +40,7 @@
     "parachainId": 2004
   },
   "polkadot-astar": {
-    "title": "Astar",
+    "name": "Astar",
     "unit": "ASTR",
     "base58prefix": 5,
     "decimals": 18,
@@ -48,7 +48,7 @@
     "parachainId": 2006
   },
   "polkadot-kapex": {
-    "title": "Kapex",
+    "name": "Kapex",
     "unit": "KPEX",
     "base58prefix": 2007,
     "decimals": 12,
@@ -56,7 +56,7 @@
     "parachainId": 2007
   },
   "polkadot-polkadot-crust-parachain": {
-    "title": "Crust Polkadot Parachain",
+    "name": "Crust",
     "unit": "CRU",
     "base58prefix": 88,
     "decimals": 12,
@@ -64,7 +64,7 @@
     "parachainId": 2008
   },
   "polkadot-equilibirum": {
-    "title": "Equilibrium",
+    "name": "Equilibrium",
     "unit": "EQ",
     "base58prefix": 68,
     "decimals": 18,
@@ -72,7 +72,7 @@
     "parachainId": 2011
   },
   "polkadot-parallel": {
-    "title": "Parallel",
+    "name": "Parallel",
     "unit": "PARA",
     "base58prefix": 172,
     "decimals": 12,
@@ -80,7 +80,7 @@
     "parachainId": 2012
   },
   "polkadot-litentry-parachain": {
-    "title": "Litentry",
+    "name": "Litentry",
     "unit": "LIT",
     "base58prefix": 31,
     "decimals": 12,
@@ -88,7 +88,7 @@
     "parachainId": 2013
   },
   "polkadot-composable": {
-    "title": "Composable Finance",
+    "name": "Composable Finance",
     "unit": "LAYR",
     "base58prefix": 50,
     "decimals": 12,
@@ -96,7 +96,7 @@
     "parachainId": 2019
   },
   "polkadot-efinity": {
-    "title": "Efinity",
+    "name": "Efinity",
     "unit": "EFI",
     "base58prefix": 1110,
     "decimals": 18,
@@ -104,7 +104,7 @@
     "parachainId": 2021
   },
   "polkadot-sora": {
-    "title": "Sora",
+    "name": "Sora",
     "unit": "XOR",
     "base58prefix": 81,
     "decimals": 18,
@@ -112,7 +112,7 @@
     "parachainId": 2025
   },
   "polkadot-nodle-para": {
-    "title": "Nodle Parachain",
+    "name": "Nodle",
     "unit": "NODL",
     "base58prefix": 37,
     "decimals": 11,
@@ -120,7 +120,7 @@
     "parachainId": 2026
   },
   "polkadot-bifrost_polkadot": {
-    "title": "Bifrost Polkadot",
+    "name": "Bifrost",
     "unit": "BNC",
     "base58prefix": 6,
     "decimals": 12,
@@ -128,7 +128,7 @@
     "parachainId": 2030
   },
   "polkadot-centrifuge": {
-    "title": "Centrifuge Parachain",
+    "name": "Centrifuge",
     "unit": "CFG",
     "base58prefix": 36,
     "decimals": 18,
@@ -136,7 +136,7 @@
     "parachainId": 2031
   },
   "polkadot-interlay-parachain": {
-    "title": "Interlay",
+    "name": "Interlay",
     "unit": "UNIT",
     "base58prefix": 2032,
     "decimals": 10,
@@ -144,7 +144,7 @@
     "parachainId": 2032
   },
   "polkadot-hydradx": {
-    "title": "HydraDX",
+    "name": "HydraDX",
     "unit": "HDX",
     "base58prefix": 63,
     "decimals": 12,
@@ -152,7 +152,7 @@
     "parachainId": 2034
   },
   "polkadot-phala": {
-    "title": "Phala",
+    "name": "Phala",
     "unit": "PHA",
     "base58prefix": 30,
     "decimals": 12,
@@ -160,7 +160,7 @@
     "parachainId": 2035
   },
   "polkadot-unique": {
-    "title": "UNIQUE",
+    "name": "Unique",
     "unit": "UNQ",
     "base58prefix": 7391,
     "decimals": 18,
@@ -168,7 +168,7 @@
     "parachainId": 2036
   },
   "polkadot-integritee": {
-    "title": "Integritee",
+    "name": "Integritee",
     "unit": "TEER",
     "base58prefix": 13,
     "decimals": 12,
@@ -176,7 +176,7 @@
     "parachainId": 2039
   },
   "polkadot-polkadex": {
-    "title": "Polkadex",
+    "name": "Polkadex",
     "unit": "PDEX",
     "base58prefix": 89,
     "decimals": 12,
@@ -184,7 +184,7 @@
     "parachainId": 2040
   },
   "polkadot-origintrail-parachain": {
-    "title": "NeuroWeb",
+    "name": "NeuroWeb",
     "unit": "NEURO",
     "base58prefix": 101,
     "decimals": 12,
@@ -192,7 +192,7 @@
     "parachainId": 2043
   },
   "polkadot-darwinia2": {
-    "title": "Darwinia",
+    "name": "Darwinia",
     "unit": "RING",
     "base58prefix": 18,
     "decimals": 18,
@@ -200,7 +200,7 @@
     "parachainId": 2046
   },
   "polkadot-bitgreen": {
-    "title": "Bitgreen",
+    "name": "Bitgreen",
     "unit": "BBB",
     "base58prefix": 42,
     "decimals": 18,
@@ -208,7 +208,7 @@
     "parachainId": 2048
   },
   "polkadot-ajuna": {
-    "title": "Ajuna",
+    "name": "Ajuna",
     "unit": "AJUN",
     "base58prefix": 1328,
     "decimals": 12,
@@ -216,7 +216,7 @@
     "parachainId": 2051
   },
   "polkadot-aventus": {
-    "title": "Aventus",
+    "name": "Aventus",
     "unit": "AVT",
     "base58prefix": 42,
     "decimals": 18,
@@ -224,7 +224,7 @@
     "parachainId": 2052
   },
   "polkadot-watr-mainnet": {
-    "title": "Watr",
+    "name": "Watr",
     "unit": "WATR",
     "base58prefix": 19,
     "decimals": 18,
@@ -232,7 +232,7 @@
     "parachainId": 2058
   },
   "polkadot-kilt-spiritnet": {
-    "title": "KILT",
+    "name": "KILT",
     "unit": "KILT",
     "base58prefix": 38,
     "decimals": 15,
@@ -240,7 +240,7 @@
     "parachainId": 2086
   },
   "polkadot-oak": {
-    "title": "Oak",
+    "name": "Oak",
     "unit": "OAK",
     "base58prefix": 51,
     "decimals": 18,
@@ -248,7 +248,7 @@
     "parachainId": 2090
   },
   "polkadot-frequency": {
-    "title": "Frequency",
+    "name": "Frequency",
     "unit": "FRQCY",
     "base58prefix": 90,
     "decimals": 8,
@@ -256,7 +256,7 @@
     "parachainId": 2091
   },
   "polkadot-zeitgeist": {
-    "title": "Zeitgeist",
+    "name": "Zeitgeist",
     "unit": "ZTG",
     "base58prefix": 73,
     "decimals": 10,
@@ -264,7 +264,7 @@
     "parachainId": 2092
   },
   "polkadot-hashed": {
-    "title": "Hashed",
+    "name": "Hashed",
     "unit": "HSH",
     "base58prefix": 9072,
     "decimals": 18,
@@ -272,7 +272,7 @@
     "parachainId": 2093
   },
   "polkadot-pendulum": {
-    "title": "Pendulum",
+    "name": "Pendulum",
     "unit": "PEN",
     "base58prefix": 56,
     "decimals": 12,
@@ -280,7 +280,7 @@
     "parachainId": 2094
   },
   "polkadot-subsocial": {
-    "title": "Subsocial",
+    "name": "Subsocial",
     "unit": "SUB",
     "base58prefix": 28,
     "decimals": 10,
@@ -288,7 +288,7 @@
     "parachainId": 2101
   },
   "polkadot-manta": {
-    "title": "Manta Atlantic",
+    "name": "Manta",
     "unit": "MANTA",
     "base58prefix": 77,
     "decimals": 18,
@@ -296,7 +296,7 @@
     "parachainId": 2104
   },
   "polkadot-t3rn": {
-    "title": "T3RN",
+    "name": "T3rn",
     "unit": "TRN",
     "base58prefix": 9935,
     "decimals": 12,
@@ -304,7 +304,7 @@
     "parachainId": 3333
   },
   "polkadot-peaq": {
-    "title": "Peaq",
+    "name": "Peaq",
     "unit": "PEAQ",
     "base58prefix": 1221,
     "decimals": 18,
@@ -312,7 +312,7 @@
     "parachainId": 3338
   },
   "polkadot-invarch": {
-    "title": "InvArch",
+    "name": "InvArch",
     "unit": "VARCH",
     "base58prefix": 117,
     "decimals": 12,
@@ -320,7 +320,7 @@
     "parachainId": 3340
   },
   "polkadot-polimec-mainnet": {
-    "title": "Polimec",
+    "name": "Polimec",
     "unit": "PLMC",
     "base58prefix": 41,
     "decimals": 10,
@@ -328,7 +328,7 @@
     "parachainId": 3344
   },
   "polkadot-ewx-parachain": {
-    "title": "Energy Web X",
+    "name": "Energy Web X",
     "unit": "EWT",
     "base58prefix": 42,
     "decimals": 18,
@@ -336,7 +336,7 @@
     "parachainId": 3345
   },
   "polkadot-continuum": {
-    "title": "Continuum",
+    "name": "Continuum",
     "unit": "NUUM",
     "base58prefix": 268,
     "decimals": 18,
@@ -344,7 +344,7 @@
     "parachainId": 3346
   },
   "polkadot-logion": {
-    "title": "Logion",
+    "name": "Logion",
     "unit": "LOG",
     "base58prefix": 2021,
     "decimals": 18,
@@ -352,7 +352,7 @@
     "parachainId": 3354
   },
   "polkadot-hyperbridge": {
-    "title": "Hyperbridge",
+    "name": "Hyperbridge",
     "unit": "NAND",
     "base58prefix": 42,
     "decimals": 12,
